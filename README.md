@@ -1,3 +1,8 @@
 # Rainfall_Predictor_Longowal
 
-This project involves building a rainfall predictor model for the Longowal region where it is supposed to be used. So far, I have gathered the weather data for the last 15 years and currently processing the data.
+This project involves building a rainfall predictor model for the Longowal region where it is supposed to be used. 
+The repo will be updated as soon as the tasks gets completed.
+
+1) Data Collection - Done 
+2) Data Cleaning - Done
+3) Data preprocessing - current
